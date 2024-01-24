@@ -1,4 +1,4 @@
-![image](https://github.com/OM28-bhoge/Unifiers.ai/assets/114462074/6874a98b-56c3-4020-bbf9-2e2a5be81d3e)# Unifers.ai  Backend  Internship  Assignment 
+# Unifers.ai  Backend  Internship  Assignment 
 ---
 ## Name : - Om Vinay Bhoge
 ## Course : - MCA
